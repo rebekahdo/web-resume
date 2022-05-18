@@ -1,0 +1,11 @@
+h1 {
+    text-align: center;
+}
+h2 {
+    text-align: center;
+    background-color: lightgrey;
+    border-bottom-style: solid; 
+}
+h4 {
+    display: inline;
+}
