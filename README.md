@@ -1,7 +1,9 @@
 # web-resume
 Rebekah Myrick
-Web Resume
 rebekahgmyrick@lewisu.edu
+
+Web Resume
+
 
 Content is original
 
