@@ -1,11 +1,46 @@
+@page {
+    size: auto;  
+    margin: 0; 
+}
 h1 {
     text-align: center;
+    margin-right: 40px;
+    margin-left: 40px;
+    margin-top: 20px;
+    margin-bottom: 5px;
 }
 h2 {
     text-align: center;
     background-color: lightgrey;
-    border-bottom-style: solid; 
+    border-bottom-style: solid;
+    margin-right: 40px;
+    margin-left: 40px;
+    margin-bottom: 5px;
+}
+h3 {
+    margin-right: 40px;
+    margin-left: 40px;
+    margin-top: 5px;
+    margin-bottom: 5px;
 }
 h4 {
     display: inline;
+}
+h5 {
+    margin-right: 40px;
+    margin-left: 40px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+p  {
+    margin-right: 40px;
+    margin-left: 40px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+ul {
+    margin-right: 40px;
+    margin-left: 40px;
+    margin-top: 5px;
+    margin-bottom: 5px;
 }
