@@ -1,15 +1,21 @@
-@page {
+/* printer friendly */
+@page 
+{
     size: auto;  
     margin: 0; 
 }
-h1 {
+/* header 1 */
+h1 
+{
     text-align: center;
     margin-right: 40px;
     margin-left: 40px;
     margin-top: 20px;
     margin-bottom: 5px;
 }
-h2 {
+/* header 2 */
+h2 
+{
     text-align: center;
     background-color: lightgrey;
     border-bottom-style: solid;
@@ -17,27 +23,35 @@ h2 {
     margin-left: 40px;
     margin-bottom: 5px;
 }
-h3 {
+/* header 3 */
+h3 
+{
     margin-right: 40px;
     margin-left: 40px;
     margin-top: 5px;
     margin-bottom: 5px;
 }
-h4 {
+/* header 4 */
+h4 
+{
     display: inline;
 }
-h5 {
+/* header 5 */
+h5 
+{
     margin-right: 40px;
     margin-left: 40px;
     margin-top: 5px;
     margin-bottom: 5px;
 }
+/* paragraph */
 p  {
     margin-right: 40px;
     margin-left: 40px;
     margin-top: 5px;
     margin-bottom: 5px;
 }
+/* list */
 ul {
     margin-right: 40px;
     margin-left: 40px;
